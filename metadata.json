@@ -1,0 +1,6 @@
+{
+  "name": "SIBEL - Sistem Informasi Bel Sekolah SMK As-Syafi'iyah",
+  "description": "Aplikasi Sistem Informasi Bel Sekolah otomatis dan manual untuk SMK As-Syafi'iyah dengan penjadwalan dinamis zona waktu Asia/Jakarta, pemutar audio synthesizer dan file kustom, serta display Kiosk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
